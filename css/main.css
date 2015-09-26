@@ -1,0 +1,78 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+/*Used to set height to 100% on body and html so you can set section#intro-section - line 65 html's height - found on line 53 css*/
+html, body {
+	height: 100%;
+}
+
+/*navigation css*/
+nav {
+	background-color: #352D2F;
+}
+ul#site-links {
+  margin-left: 23%;
+  margin-top: 1%;
+}
+ul#search-links {
+  margin-top: 1%;
+}
+.navbar-nav a {
+	color: rgba(255, 255, 255, 0.5)
+}
+.nav>li.active>a,
+.nav>li>a:hover,
+.nav>li>a:focus {
+    text-decoration: none;
+    background-color: #F63C3C;
+    color: #FFF;
+}
+.nav .open>a, 
+.nav .open>a:hover, 
+.nav .open>a:focus {
+    background-color: #F63C3C;
+    color: #FFF;
+}
+.active a {
+	color: #fff;
+}
+input[type="search"].toolbar {
+	display: none;
+	height: 21px;
+	width: 177px;
+	margin-top: 13px;
+}
+#btn-search {
+	background-color: transparent;
+  border: none;
+  color: rgba(255, 255, 255, 0.5);
+  margin-top: 13px;
+}
+
+/*intro section*/
+#intro-section {
+	background-color: #352D2F;
+	color: #FFF;
+	height: 89%;
+	padding-top: 11%;
+}
+.intro-text h1 {
+	font-size: 75px;
+}
+.intro-text button {
+	background-color: transparent;
+	padding: 10px 15px;
+}
+#discover {
+	color:  rgba(255, 255, 255, 0.7);
+	position: absolute;
+	bottom: 2%;
+	width:100%;
+}
+#discover i {
+	color:  #f4f3f1;
+}
+
+
+
+
