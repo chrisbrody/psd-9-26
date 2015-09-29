@@ -115,14 +115,31 @@ input[type="search"].toolbar {
 }
 
 
+/*Grid Sections*/
+.model-s{
+	background-color: #352d2f;
+	color:#FFFFFF;
+	height:250px;
+}
+.model-s h4{
+	margin-top: 174px;
+}
 
+
+
+.curiosity{
+	background-color: #30282a;
+	color:#FFFFFF;
+	height:250px;
+}
+
+/*.curiosity h4{
+	margin-top: 174px;
+}*/
 
 
 .show-more-projects{
-	
-	
 	text-align: center;
-	
 	background-color: #30282a;
 }
 
@@ -130,6 +147,7 @@ input[type="search"].toolbar {
 	color: #FFFFFF;
 	margin-top: 20px;
 	margin-bottom: 20px;
+
 }
 
 
