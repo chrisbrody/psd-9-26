@@ -76,13 +76,61 @@ input[type="search"].toolbar {
 
 /* ABBYS CODE */
 
+/* Explore More Section  */
+.explore-more{
+	margin-top: 30px;
+	text-align: center;
+}
+
+.explore-more button{
+	background-color: #f63c3c;
+	margin-bottom: 30px;
+}
+
+/* Features - Infinity Spaces */
+
+.infinity-spaces{
+	/*margin-top: 300px;*/
+	background: #f63c3c;
+	height: 500px;
+
+}
+
+
+
+.infinity-spaces h5{
+	margin-top: 300px;
+	font-size: 10px;
+	margin-bottom: 30px;
+
+
+}
+
+.infinity-spaces h4{
+	font-size: 30px;
+	margin-bottom: 20px;
+	color:#FFFFFF;
+
+
+}
 
 
 
 
 
+.show-more-projects{
+	
+	
+	text-align: center;
+	
+	background-color: #30282a;
+}
 
-
+.show-more-projects p{
+	color: #FFFFFF;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
 
 
 
