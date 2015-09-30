@@ -1,3 +1,4 @@
+
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
@@ -76,6 +77,98 @@ input[type="search"].toolbar {
 
 /* ABBYS CODE */
 
+/* Explore More Section  */
+.explore-more{
+	margin-top: 30px;
+	text-align: center;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+.explore-more button{
+	background-color: #f63c3c;
+	margin-bottom: 30px;
+	font-family: 'Roboto Condensed', sans-serif;
+	color:#fff;
+}
+
+/* Features - Infinity Spaces */
+
+.infinity-spaces{
+	/*margin-top: 300px;*/
+	background: #f63c3c;
+	height: 500px;
+
+}
+
+
+
+.infinity-spaces h5{
+	margin-top: 300px;
+	font-size: 10px;
+	margin-bottom: 30px;
+	font-family: 'Roboto Condensed', sans-serif;
+
+
+}
+
+.infinity-spaces h4{
+	font-size: 30px;
+	margin-bottom: 20px;
+	color:#FFFFFF;
+	font-family: 'Roboto Condensed', sans-serif;
+
+
+}
+
+.infinity-spaces p{
+	font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+
+
+/*Grid Sections*/
+.model-s{
+	background-color: #352d2f;
+	color:#FFFFFF;
+	height:253px;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.model-s h4{
+	margin-top: 174px;
+}
+
+
+
+.curiosity{
+	background-color: #30282a;
+	color:#FFFFFF;
+	height:250px;
+	font-size: 10px;
+	width: 100%;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+/*.curiosity h4{
+	margin-top: 174px;
+}*/
+
+
+.show-more-projects{
+	text-align: center;
+	background-color: #30282a;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+.show-more-projects p{
+	color: #FFFFFF;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+}
+
+
+
 
 
 
@@ -91,8 +184,116 @@ input[type="search"].toolbar {
 /* ZIVS CODE */
 
 
+.col-centered {
+    display:inline-block;
+    float:none;
+    text-align:left;
+    margin-right:-4px;
+}
+
+.exclusive_theme  {
+	margin-left: 20px;
+}
+.exclusive_theme h2 {
+font-family: Teko;
+color:  #000000;
+font-size: 30px;/* Approximation due to font substitution */
+font-weight: 400;
+line-height: 30px;/* Approximation due to font substitution */
+text-align: left;
+}
+
+.exclusive_theme h4 {
+font-family: TitilliumWeb;
+color:  #555555;
+font-size: 16px;/* Approximation due to font substitution */
+font-weight: 300;
+line-height: 22px;/* Approximation due to font substitution */
+text-align: left;
+}
 
 
+.material_design {
+font-family: Teko;
+color:  #000000;
+font-size: 30px;/* Approximation due to font substitution */
+font-weight: 400;
+line-height: 30px;/* Approximation due to font substitution */
+text-align: left;
+}
+
+.behance {
+		background-color:  #30282a;  
+		 width: 150px;
+		height: 150px;
+    padding: 25px;
+    margin-top: 50px;
+    margin-right: 10px;
+}
+.behance h2 {
+color:  #ffffff;
+font-size: 15px;/* Approximation due to font substitution */
+font-weight: 300;
+text-align: center;
+}
+
+.facebook {
+		background-color:  #30282a;  
+		 width: 150px;
+		height: 150px;
+    padding: 25px;
+     margin-top: 50px;
+}
+.facebook h2 {
+color:  #ffffff;
+font-size: 15px;/* Approximation due to font substitution */
+font-weight: 300;
+text-align: center;
+}
+
+.pinterest {
+	background-color:  #30282a;  
+	width: 150px;
+		height: 150px;
+  padding: 25px;
+   margin-top: 50px;
+}
+
+.pinterest h2 {
+color:  #ffffff;
+font-size: 15px;/* Approximation due to font substitution */
+font-weight: 300;
+text-align: center;
+}
+
+.linkedin {
+	background-color:  #30282a;  
+	width: 150px;
+	height: 150px;
+  padding: 25px;
+  margin-top: 50px;
+}
+.linkedin h2 {
+color:  #ffffff;
+font-size: 15px;/* Approximation due to font substitution */
+font-weight: 300;
+text-align: center;
+}
+
+/*contact*/
+
+.contact {
+	background-color:  #30282a; 
+	width: 100%;
+	height: 400px;
+}
+
+.center-block {
+	width: 350px;
+	height: 200px;
+	background-color: red;
+	margin-top: 100px;
+}
 
 
 
