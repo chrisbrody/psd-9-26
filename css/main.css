@@ -80,11 +80,14 @@ input[type="search"].toolbar {
 .explore-more{
 	margin-top: 30px;
 	text-align: center;
+	font-family: 'Roboto Condensed', sans-serif;
 }
 
 .explore-more button{
 	background-color: #f63c3c;
 	margin-bottom: 30px;
+	font-family: 'Roboto Condensed', sans-serif;
+	color:#fff;
 }
 
 /* Features - Infinity Spaces */
@@ -102,6 +105,7 @@ input[type="search"].toolbar {
 	margin-top: 300px;
 	font-size: 10px;
 	margin-bottom: 30px;
+	font-family: 'Roboto Condensed', sans-serif;
 
 
 }
@@ -110,16 +114,24 @@ input[type="search"].toolbar {
 	font-size: 30px;
 	margin-bottom: 20px;
 	color:#FFFFFF;
+	font-family: 'Roboto Condensed', sans-serif;
 
 
 }
+
+.infinity-spaces p{
+	font-family: 'Roboto Condensed', sans-serif;
+
+}
+
 
 
 /*Grid Sections*/
 .model-s{
 	background-color: #352d2f;
 	color:#FFFFFF;
-	height:250px;
+	height:253px;
+	font-family: 'Roboto Condensed', sans-serif;
 }
 .model-s h4{
 	margin-top: 174px;
@@ -131,6 +143,9 @@ input[type="search"].toolbar {
 	background-color: #30282a;
 	color:#FFFFFF;
 	height:250px;
+	font-size: 10px;
+	width: 100%;
+	font-family: 'Roboto Condensed', sans-serif;
 }
 
 /*.curiosity h4{
@@ -141,6 +156,7 @@ input[type="search"].toolbar {
 .show-more-projects{
 	text-align: center;
 	background-color: #30282a;
+	font-family: 'Roboto Condensed', sans-serif;
 }
 
 .show-more-projects p{
@@ -149,6 +165,14 @@ input[type="search"].toolbar {
 	margin-bottom: 20px;
 
 }
+
+
+
+
+
+
+
+
 
 
 
